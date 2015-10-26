@@ -6,4 +6,4 @@ Hi, I modified you third time.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git tracks changes of a file.
-1 
+1 2 
