@@ -10,6 +10,6 @@ Git tracks changes of a file.
 Test for remote sync.
 Creating a new branch is quick. really?
 Creating a new branch is quick AND simple.
-Feature1
+Feature1, fix bug001
 Trun off fast forward mode
 
