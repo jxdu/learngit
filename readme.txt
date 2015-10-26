@@ -13,3 +13,4 @@ Creating a new branch is quick AND simple.
 Feature1, fix bug001, fix bug002
 Trun off fast forward mode
 WOrking on Project A
+Version 4.0
