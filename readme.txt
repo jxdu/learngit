@@ -3,3 +3,4 @@ Git is free software under the GPL.
 This is a modification.
 This is the second modification.
 Hi, I modified you third time.
+Git has a mutable index called stage.
