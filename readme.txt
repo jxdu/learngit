@@ -11,3 +11,5 @@ Test for remote sync.
 Creating a new branch is quick. really?
 Creating a new branch is quick AND simple.
 Feature1
+Trun off fast forward mode
+
