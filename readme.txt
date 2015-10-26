@@ -1,5 +1,5 @@
-Git is a version control system.
-Git is free software.
+Git is a distributed version control system.
+Git is free software under the GPL.
 This is a modification.
 This is the second modification.
 Hi, I modified you third time.
